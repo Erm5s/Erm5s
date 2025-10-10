@@ -1,4 +1,6 @@
-![BladeRunner](assets/BladeRunner.gif)
+<p align="center">
+    <img src="https://github.com/Erm5s/Erm5s/assets/BladeRunner.gif">
+</p>
 
 
 ## 💫 About Me:
