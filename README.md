@@ -1,4 +1,4 @@
-[![BladeRunner]https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F798614946436963642%2F&psig=AOvVaw24FvVY2CXS008IoYTeFGFY&ust=1760172729038000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqGAoTCNjw9MagmZADFQAAAAAdAAAAABCTAQ)]
+[![BladeRunner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F798614946436963642%2F&psig=AOvVaw24FvVY2CXS008IoYTeFGFY&ust=1760172729038000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqGAoTCNjw9MagmZADFQAAAAAdAAAAABCTAQ)]
 
 ## 💫 About Me:
 Etudiant en 2e année de BUT Informatique<br>Joueur pro League of Legends (j'ai battu Faker en pur 1v1)<br>Chef de projet sur des jeux Ubisoft tel que D&D
