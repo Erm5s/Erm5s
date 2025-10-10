@@ -1,4 +1,5 @@
-![BladeRunner](https://pin.it/3VESL9fIV)
+![BladeRunner](assets/BladeRunner.gif)
+
 
 ## 💫 About Me:
 Etudiant en 2e année de BUT Informatique<br>Joueur pro League of Legends (j'ai battu Faker en pur 1v1)<br>Chef de projet sur des jeux Ubisoft tel que D&D
