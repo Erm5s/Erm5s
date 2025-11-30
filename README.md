@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Erm5s/Erm5s/assets/BladeRunner.gif">
+  <img src="assets/walle.gif" alt="Wall-E"> 
 </p>
 
 
