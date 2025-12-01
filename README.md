@@ -11,6 +11,15 @@ Je suis Emre, étudiant en BUT Informatique passionné par :
 - la photographie
 - les jeux vidéos
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+</div>
 
 ## 🌐 Mes autres univers
 - [Letterboxd](https://letterboxd.com/erm5s) — mes films préférés, mes notes, mes coups de cœur  
