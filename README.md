@@ -56,6 +56,14 @@ Je suis passionné par :
 
 ---
 
+## 🚀 Projets en cours
+
+- **Jeu Bataille Navale** – développé en **Java Swing**, une version interactive du classique jeu de bataille navale.  
+- **Jeu sérieux** – développé en **GD Script** (Godot), simulation pour la gestion d’une base de recherche polaire, alliant stratégie et apprentissage.  
+- **Site d’apprentissage JavaScript** – projet d’exploration de **JS** avec **utilisation de la DB TMDB**, pour créer un site de jeux et quiz sur le cinéma.
+
+---
+
 ## 🌐 Mes autres univers
 
 - [**Letterboxd**](https://letterboxd.com/erm5s) — mes films préférés, mes notes, mes coups de cœur.  
@@ -65,7 +73,7 @@ Je suis passionné par :
 ---
 
 <div align="center">
-  <sub>🤖 Wall-E retourne ranger quelques boulons… Merci d’être passé, human 🌟</sub>  
+  <p>🤖 Je retourne ranger quelques boulons… Merci d’être passé et à bientôt 🌟</p>  
   <br>
   <img src="assets/walle.gif" alt="Wall-E">
 </div>
